@@ -126,7 +126,9 @@ a {
 
   .close-menu {
     align-self: flex-end;
-    padding: 20px 15px;
+    position: absolute;
+    top: 4.5%;
+    right: 7%;
   }
 
   .menu_opened {
