@@ -13,6 +13,7 @@
   scroll-behavior: smooth;
 }
 
+
 a {
   text-decoration: none;
 }
@@ -589,5 +590,14 @@ ul {
   color: rgb(178,53,34);
   font-weight: bold;
 }
+
+/**Exc Mayo Spirit Trek**/
+.desembarcos {
+  font-weight: bold;
+  text-transform: capitalize;
+  color: rgb(161,178,63);
+}
+
+
 
 
