@@ -598,6 +598,13 @@ ul {
   color: rgb(161,178,63);
 }
 
+.ulMayo span {
+  background-color: rgb(229,232,9);
+}
 
+.contenedor-img-rec {
+  width: inherit;
+  height: auto;
+}
 
 
